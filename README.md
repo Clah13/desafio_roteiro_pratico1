@@ -14,6 +14,7 @@ Existem três desafios.
    - Calcular a média a partir de uma determinada lista.
 <h3>3. Cálculo de listas:</h3>
    - Somar valores de uma determinada lista contendo gastos e mostrar quem gastou mais durante o mês.
+   <br><br>
 
 Demais informações sobre os códigos estão descritos no próprio arquivo.
 
