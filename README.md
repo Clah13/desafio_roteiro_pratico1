@@ -19,3 +19,11 @@ Existem três desafios.
 Demais informações sobre os códigos estão descritos no próprio arquivo.
 
 ---
+
+# Disclaimer de IA
+
+Nenhuma IA foi utilizada para gerar o código base (fiz na raça). 
+
+No entanto, a IA (ChatGPT) foi utilizada para validação de sintaxe de situações mais extremas (exercício 03...) e ofertou sugestões de melhorias no código após ter terminado a minha primeira versão. Nem toda sugestão foi implementada. Nenhuma sugestão foi copiada e colada. 
+
+Nenhum outro texto - incluindo comentários - foi criado por IA. Demais itens resultantes do aprendizado externo foram implementados com base na pesquisa da documentação da linguagem de programação ou sugestões propostas pela comunidade (Stack Overflow).
